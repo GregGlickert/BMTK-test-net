@@ -1,0 +1,5 @@
+*.out
+*.error
+output/
+network/
+input/
